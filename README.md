@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maf990
 - 👀 I’m interested in android developer
-- 🌱 I’m currently learning pyhton,c++,and kotlin
+- 🌱 I’m currently learning pyhton
 - 💞️ I’m looking to collaborate on studying and improve skill and ability
 - 📫 How to reach me :
   ~ Instagram : @maf_990
