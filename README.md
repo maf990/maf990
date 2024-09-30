@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @maf990
-- 👀 I’m interested in android developer
-- 🌱 I’m currently learning pyhton
-- 💞️ I’m looking to collaborate on studying and improve skill and ability
-- 📫 How to reach me :
-  ~ Instagram : @maf_990
+# 👋 Hi, I’m @maf990
 
-<!---
-maf990/maf990 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### About Me:
+- 👀 Passionate about **Android Development** and constantly exploring new technologies.
+- 🌱 Currently expanding my skills in **Python** to build more versatile applications.
+- 💡 Always eager to collaborate, learn, and enhance my abilities.
+- 🎯 Looking to collaborate on open-source projects, especially in **Android development** and **Python programming**.
+
+### Let's Connect:
+- [![Instagram Icon](https://img.shields.io/badge/Instagram-FF69B4?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/maf_990)
+- [![LinkedIn Icon](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/musthafa-abduh-f/)
